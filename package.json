@@ -1,5 +1,5 @@
 {
-  "name": "backend-cafecito",
+  "name": "5-backend-cafe",
   "version": "1.0.0",
   "description": "Practica de backend para el proyecto de la cafeteria",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "express",
     "mongodb"
   ],
-  "author": "Emilse Arias",
+  "author": "Agustin Sampayo",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
